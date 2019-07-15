@@ -98,7 +98,6 @@ h1,h2,h3,header,main,footer,nav,p,ul,li {
   width: 960px;
   text-align:center;
   font-size:x-large;
-  text-indent: 1;
   border: thin black;
   margin: 1em auto;
   color:black;
@@ -112,7 +111,6 @@ h1,h2,h3,header,main,footer,nav,p,ul,li {
 }
 .column {
   width: 100%;
-  float: center;
   padding: 10px;
   font-family: Gill Sans Extrabold, sans-serif;
 }
